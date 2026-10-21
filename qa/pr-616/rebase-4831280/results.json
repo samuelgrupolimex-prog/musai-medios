@@ -1,0 +1,850 @@
+[
+ {
+  "route": "/estilo/sadcore",
+  "engine": "webkit",
+  "width": 390,
+  "status": 200,
+  "xrobots": "noindex",
+  "sw": 390,
+  "iw": 390,
+  "errs": [],
+  "ignored": 0,
+  "title": "Qué es el sadcore: la tristeza lenta y bonita · MUSAI Song",
+  "h1": [
+   "Sadcore"
+  ],
+  "canon": "https://musaisong.app/estilo/sadcore",
+  "robots": [],
+  "ldn": 5,
+  "ldok": true,
+  "types": [
+   "Organization",
+   "WebSite",
+   "CreativeWork",
+   "FAQPage",
+   "Product",
+   "BreadcrumbList"
+  ],
+  "has": {
+   "text": false,
+   "tldr": false,
+   "ld": false
+  },
+  "tldr": "Sadcore es un estilo de la familia Niebla y nostalgia. 70 BPM.",
+  "shot": "estilo_sadcore__webkit__390.png",
+  "fails": []
+ },
+ {
+  "route": "/en/style/sadcore",
+  "engine": "webkit",
+  "width": 390,
+  "status": 200,
+  "xrobots": "noindex",
+  "sw": 390,
+  "iw": 390,
+  "errs": [],
+  "ignored": 0,
+  "title": "What is sadcore? Slow, beautiful sadness · MUSAI Song",
+  "h1": [
+   "Sadcore"
+  ],
+  "canon": "https://musaisong.app/en/style/sadcore",
+  "robots": [],
+  "ldn": 5,
+  "ldok": true,
+  "types": [
+   "Organization",
+   "WebSite",
+   "CreativeWork",
+   "FAQPage",
+   "Product",
+   "BreadcrumbList"
+  ],
+  "has": {
+   "text": false,
+   "tldr": false,
+   "ld": false
+  },
+  "tldr": "Sadcore is a style from the Fog and Nostalgia family. 70 BPM.",
+  "shot": "en_style_sadcore__webkit__390.png",
+  "fails": []
+ },
+ {
+  "route": "/estilo/bossa-nova",
+  "engine": "webkit",
+  "width": 390,
+  "status": 200,
+  "xrobots": "noindex",
+  "sw": 390,
+  "iw": 390,
+  "errs": [],
+  "ignored": 0,
+  "title": "Qué es la bossa nova: samba y jazz en voz baja · MUSAI Song",
+  "h1": [
+   "Bossa Nova"
+  ],
+  "canon": "https://musaisong.app/estilo/bossa-nova",
+  "robots": [],
+  "ldn": 5,
+  "ldok": true,
+  "types": [
+   "Organization",
+   "WebSite",
+   "CreativeWork",
+   "FAQPage",
+   "Product",
+   "BreadcrumbList"
+  ],
+  "has": {
+   "text": false,
+   "tldr": false,
+   "ld": false
+  },
+  "tldr": "Bossa Nova es un estilo de la familia Humo y medianoche. 130 BPM.",
+  "shot": "estilo_bossa-nova__webkit__390.png",
+  "fails": []
+ },
+ {
+  "route": "/en/style/corrido-tumbado",
+  "engine": "webkit",
+  "width": 390,
+  "status": 200,
+  "xrobots": "noindex",
+  "sw": 390,
+  "iw": 390,
+  "errs": [],
+  "ignored": 0,
+  "title": "Custom Corrido Tumbado song, hear it first · MUSAI Song",
+  "h1": [
+   "Corrido Tumbado"
+  ],
+  "canon": "https://musaisong.app/en/style/corrido-tumbado",
+  "robots": [],
+  "ldn": 5,
+  "ldok": true,
+  "types": [
+   "Organization",
+   "WebSite",
+   "CreativeWork",
+   "FAQPage",
+   "Product",
+   "BreadcrumbList"
+  ],
+  "has": {
+   "text": false,
+   "tldr": false,
+   "ld": false
+  },
+  "tldr": "Corrido Tumbado is a style from the Roots That Hold Fast family. 98 BPM.",
+  "shot": "en_style_corrido-tumbado__webkit__390.png",
+  "fails": []
+ },
+ {
+  "route": "/estilo/salsa-dura",
+  "engine": "webkit",
+  "width": 390,
+  "status": 200,
+  "xrobots": "noindex",
+  "sw": 390,
+  "iw": 390,
+  "errs": [],
+  "ignored": 0,
+  "title": "Canción personalizada estilo Salsa Dura · MUSAI Song",
+  "h1": [
+   "Salsa Dura"
+  ],
+  "canon": "https://musaisong.app/estilo/salsa-dura",
+  "robots": [
+   "noindex, follow"
+  ],
+  "ldn": 5,
+  "ldok": true,
+  "types": [
+   "Organization",
+   "WebSite",
+   "CreativeWork",
+   "FAQPage",
+   "Product",
+   "BreadcrumbList"
+  ],
+  "has": {
+   "text": true,
+   "tldr": true,
+   "ld": true
+  },
+  "tldr": "Salsa Dura es un estilo de la familia Fiesta que no termina. 98 BPM, Experimentación 18, Fuerza del estilo 98.",
+  "shot": "estilo_salsa-dura__webkit__390.png",
+  "fails": []
+ },
+ {
+  "route": "/cancion-para-dia-de-muertos",
+  "engine": "webkit",
+  "width": 390,
+  "status": 200,
+  "xrobots": "noindex",
+  "sw": 390,
+  "iw": 390,
+  "errs": [],
+  "ignored": 0,
+  "title": "Canción para Día de Muertos y tu ofrenda · MUSAI Song",
+  "h1": [
+   "Una canción para tu ofrenda de Día de Muertos, con su historia"
+  ],
+  "canon": "https://musaisong.app/cancion-para-dia-de-muertos",
+  "robots": [],
+  "ldn": 5,
+  "ldok": true,
+  "types": [
+   "Organization",
+   "WebSite",
+   "BreadcrumbList",
+   "Product",
+   "FAQPage",
+   "VideoObject"
+  ],
+  "has": {
+   "text": false,
+   "tldr": false,
+   "ld": false
+  },
+  "tldr": "",
+  "shot": "cancion-para-dia-de-muertos__webkit__390.png",
+  "fails": []
+ },
+ {
+  "route": "/estilo/sadcore",
+  "engine": "webkit",
+  "width": 1280,
+  "status": 200,
+  "xrobots": "noindex",
+  "sw": 1280,
+  "iw": 1280,
+  "errs": [],
+  "ignored": 0,
+  "title": "Qué es el sadcore: la tristeza lenta y bonita · MUSAI Song",
+  "h1": [
+   "Sadcore"
+  ],
+  "canon": "https://musaisong.app/estilo/sadcore",
+  "robots": [],
+  "ldn": 5,
+  "ldok": true,
+  "types": [
+   "Organization",
+   "WebSite",
+   "CreativeWork",
+   "FAQPage",
+   "Product",
+   "BreadcrumbList"
+  ],
+  "has": {
+   "text": false,
+   "tldr": false,
+   "ld": false
+  },
+  "tldr": "Sadcore es un estilo de la familia Niebla y nostalgia. 70 BPM.",
+  "shot": "estilo_sadcore__webkit__1280.png",
+  "fails": []
+ },
+ {
+  "route": "/en/style/sadcore",
+  "engine": "webkit",
+  "width": 1280,
+  "status": 200,
+  "xrobots": "noindex",
+  "sw": 1280,
+  "iw": 1280,
+  "errs": [],
+  "ignored": 0,
+  "title": "What is sadcore? Slow, beautiful sadness · MUSAI Song",
+  "h1": [
+   "Sadcore"
+  ],
+  "canon": "https://musaisong.app/en/style/sadcore",
+  "robots": [],
+  "ldn": 5,
+  "ldok": true,
+  "types": [
+   "Organization",
+   "WebSite",
+   "CreativeWork",
+   "FAQPage",
+   "Product",
+   "BreadcrumbList"
+  ],
+  "has": {
+   "text": false,
+   "tldr": false,
+   "ld": false
+  },
+  "tldr": "Sadcore is a style from the Fog and Nostalgia family. 70 BPM.",
+  "shot": "en_style_sadcore__webkit__1280.png",
+  "fails": []
+ },
+ {
+  "route": "/estilo/bossa-nova",
+  "engine": "webkit",
+  "width": 1280,
+  "status": 200,
+  "xrobots": "noindex",
+  "sw": 1280,
+  "iw": 1280,
+  "errs": [],
+  "ignored": 0,
+  "title": "Qué es la bossa nova: samba y jazz en voz baja · MUSAI Song",
+  "h1": [
+   "Bossa Nova"
+  ],
+  "canon": "https://musaisong.app/estilo/bossa-nova",
+  "robots": [],
+  "ldn": 5,
+  "ldok": true,
+  "types": [
+   "Organization",
+   "WebSite",
+   "CreativeWork",
+   "FAQPage",
+   "Product",
+   "BreadcrumbList"
+  ],
+  "has": {
+   "text": false,
+   "tldr": false,
+   "ld": false
+  },
+  "tldr": "Bossa Nova es un estilo de la familia Humo y medianoche. 130 BPM.",
+  "shot": "estilo_bossa-nova__webkit__1280.png",
+  "fails": []
+ },
+ {
+  "route": "/en/style/corrido-tumbado",
+  "engine": "webkit",
+  "width": 1280,
+  "status": 200,
+  "xrobots": "noindex",
+  "sw": 1280,
+  "iw": 1280,
+  "errs": [],
+  "ignored": 0,
+  "title": "Custom Corrido Tumbado song, hear it first · MUSAI Song",
+  "h1": [
+   "Corrido Tumbado"
+  ],
+  "canon": "https://musaisong.app/en/style/corrido-tumbado",
+  "robots": [],
+  "ldn": 5,
+  "ldok": true,
+  "types": [
+   "Organization",
+   "WebSite",
+   "CreativeWork",
+   "FAQPage",
+   "Product",
+   "BreadcrumbList"
+  ],
+  "has": {
+   "text": false,
+   "tldr": false,
+   "ld": false
+  },
+  "tldr": "Corrido Tumbado is a style from the Roots That Hold Fast family. 98 BPM.",
+  "shot": "en_style_corrido-tumbado__webkit__1280.png",
+  "fails": []
+ },
+ {
+  "route": "/estilo/salsa-dura",
+  "engine": "webkit",
+  "width": 1280,
+  "status": 200,
+  "xrobots": "noindex",
+  "sw": 1280,
+  "iw": 1280,
+  "errs": [],
+  "ignored": 0,
+  "title": "Canción personalizada estilo Salsa Dura · MUSAI Song",
+  "h1": [
+   "Salsa Dura"
+  ],
+  "canon": "https://musaisong.app/estilo/salsa-dura",
+  "robots": [
+   "noindex, follow"
+  ],
+  "ldn": 5,
+  "ldok": true,
+  "types": [
+   "Organization",
+   "WebSite",
+   "CreativeWork",
+   "FAQPage",
+   "Product",
+   "BreadcrumbList"
+  ],
+  "has": {
+   "text": true,
+   "tldr": true,
+   "ld": true
+  },
+  "tldr": "Salsa Dura es un estilo de la familia Fiesta que no termina. 98 BPM, Experimentación 18, Fuerza del estilo 98.",
+  "shot": "estilo_salsa-dura__webkit__1280.png",
+  "fails": []
+ },
+ {
+  "route": "/cancion-para-dia-de-muertos",
+  "engine": "webkit",
+  "width": 1280,
+  "status": 200,
+  "xrobots": "noindex",
+  "sw": 1280,
+  "iw": 1280,
+  "errs": [],
+  "ignored": 0,
+  "title": "Canción para Día de Muertos y tu ofrenda · MUSAI Song",
+  "h1": [
+   "Una canción para tu ofrenda de Día de Muertos, con su historia"
+  ],
+  "canon": "https://musaisong.app/cancion-para-dia-de-muertos",
+  "robots": [],
+  "ldn": 5,
+  "ldok": true,
+  "types": [
+   "Organization",
+   "WebSite",
+   "BreadcrumbList",
+   "Product",
+   "FAQPage",
+   "VideoObject"
+  ],
+  "has": {
+   "text": false,
+   "tldr": false,
+   "ld": false
+  },
+  "tldr": "",
+  "shot": "cancion-para-dia-de-muertos__webkit__1280.png",
+  "fails": []
+ },
+ {
+  "route": "/estilo/sadcore",
+  "engine": "chromium",
+  "width": 390,
+  "status": 200,
+  "xrobots": "noindex",
+  "sw": 390,
+  "iw": 390,
+  "errs": [],
+  "ignored": 0,
+  "title": "Qué es el sadcore: la tristeza lenta y bonita · MUSAI Song",
+  "h1": [
+   "Sadcore"
+  ],
+  "canon": "https://musaisong.app/estilo/sadcore",
+  "robots": [],
+  "ldn": 5,
+  "ldok": true,
+  "types": [
+   "Organization",
+   "WebSite",
+   "CreativeWork",
+   "FAQPage",
+   "Product",
+   "BreadcrumbList"
+  ],
+  "has": {
+   "text": false,
+   "tldr": false,
+   "ld": false
+  },
+  "tldr": "Sadcore es un estilo de la familia Niebla y nostalgia. 70 BPM.",
+  "shot": "estilo_sadcore__chromium__390.png",
+  "fails": []
+ },
+ {
+  "route": "/en/style/sadcore",
+  "engine": "chromium",
+  "width": 390,
+  "status": 200,
+  "xrobots": "noindex",
+  "sw": 390,
+  "iw": 390,
+  "errs": [],
+  "ignored": 0,
+  "title": "What is sadcore? Slow, beautiful sadness · MUSAI Song",
+  "h1": [
+   "Sadcore"
+  ],
+  "canon": "https://musaisong.app/en/style/sadcore",
+  "robots": [],
+  "ldn": 5,
+  "ldok": true,
+  "types": [
+   "Organization",
+   "WebSite",
+   "CreativeWork",
+   "FAQPage",
+   "Product",
+   "BreadcrumbList"
+  ],
+  "has": {
+   "text": false,
+   "tldr": false,
+   "ld": false
+  },
+  "tldr": "Sadcore is a style from the Fog and Nostalgia family. 70 BPM.",
+  "shot": "en_style_sadcore__chromium__390.png",
+  "fails": []
+ },
+ {
+  "route": "/estilo/bossa-nova",
+  "engine": "chromium",
+  "width": 390,
+  "status": 200,
+  "xrobots": "noindex",
+  "sw": 390,
+  "iw": 390,
+  "errs": [],
+  "ignored": 0,
+  "title": "Qué es la bossa nova: samba y jazz en voz baja · MUSAI Song",
+  "h1": [
+   "Bossa Nova"
+  ],
+  "canon": "https://musaisong.app/estilo/bossa-nova",
+  "robots": [],
+  "ldn": 5,
+  "ldok": true,
+  "types": [
+   "Organization",
+   "WebSite",
+   "CreativeWork",
+   "FAQPage",
+   "Product",
+   "BreadcrumbList"
+  ],
+  "has": {
+   "text": false,
+   "tldr": false,
+   "ld": false
+  },
+  "tldr": "Bossa Nova es un estilo de la familia Humo y medianoche. 130 BPM.",
+  "shot": "estilo_bossa-nova__chromium__390.png",
+  "fails": []
+ },
+ {
+  "route": "/en/style/corrido-tumbado",
+  "engine": "chromium",
+  "width": 390,
+  "status": 200,
+  "xrobots": "noindex",
+  "sw": 390,
+  "iw": 390,
+  "errs": [],
+  "ignored": 0,
+  "title": "Custom Corrido Tumbado song, hear it first · MUSAI Song",
+  "h1": [
+   "Corrido Tumbado"
+  ],
+  "canon": "https://musaisong.app/en/style/corrido-tumbado",
+  "robots": [],
+  "ldn": 5,
+  "ldok": true,
+  "types": [
+   "Organization",
+   "WebSite",
+   "CreativeWork",
+   "FAQPage",
+   "Product",
+   "BreadcrumbList"
+  ],
+  "has": {
+   "text": false,
+   "tldr": false,
+   "ld": false
+  },
+  "tldr": "Corrido Tumbado is a style from the Roots That Hold Fast family. 98 BPM.",
+  "shot": "en_style_corrido-tumbado__chromium__390.png",
+  "fails": []
+ },
+ {
+  "route": "/estilo/salsa-dura",
+  "engine": "chromium",
+  "width": 390,
+  "status": 200,
+  "xrobots": "noindex",
+  "sw": 390,
+  "iw": 390,
+  "errs": [],
+  "ignored": 0,
+  "title": "Canción personalizada estilo Salsa Dura · MUSAI Song",
+  "h1": [
+   "Salsa Dura"
+  ],
+  "canon": "https://musaisong.app/estilo/salsa-dura",
+  "robots": [
+   "noindex, follow"
+  ],
+  "ldn": 5,
+  "ldok": true,
+  "types": [
+   "Organization",
+   "WebSite",
+   "CreativeWork",
+   "FAQPage",
+   "Product",
+   "BreadcrumbList"
+  ],
+  "has": {
+   "text": true,
+   "tldr": true,
+   "ld": true
+  },
+  "tldr": "Salsa Dura es un estilo de la familia Fiesta que no termina. 98 BPM, Experimentación 18, Fuerza del estilo 98.",
+  "shot": "estilo_salsa-dura__chromium__390.png",
+  "fails": []
+ },
+ {
+  "route": "/cancion-para-dia-de-muertos",
+  "engine": "chromium",
+  "width": 390,
+  "status": 200,
+  "xrobots": "noindex",
+  "sw": 390,
+  "iw": 390,
+  "errs": [],
+  "ignored": 0,
+  "title": "Canción para Día de Muertos y tu ofrenda · MUSAI Song",
+  "h1": [
+   "Una canción para tu ofrenda de Día de Muertos, con su historia"
+  ],
+  "canon": "https://musaisong.app/cancion-para-dia-de-muertos",
+  "robots": [],
+  "ldn": 5,
+  "ldok": true,
+  "types": [
+   "Organization",
+   "WebSite",
+   "BreadcrumbList",
+   "Product",
+   "FAQPage",
+   "VideoObject"
+  ],
+  "has": {
+   "text": false,
+   "tldr": false,
+   "ld": false
+  },
+  "tldr": "",
+  "shot": "cancion-para-dia-de-muertos__chromium__390.png",
+  "fails": []
+ },
+ {
+  "route": "/estilo/sadcore",
+  "engine": "chromium",
+  "width": 1280,
+  "status": 200,
+  "xrobots": "noindex",
+  "sw": 1280,
+  "iw": 1280,
+  "errs": [],
+  "ignored": 0,
+  "title": "Qué es el sadcore: la tristeza lenta y bonita · MUSAI Song",
+  "h1": [
+   "Sadcore"
+  ],
+  "canon": "https://musaisong.app/estilo/sadcore",
+  "robots": [],
+  "ldn": 5,
+  "ldok": true,
+  "types": [
+   "Organization",
+   "WebSite",
+   "CreativeWork",
+   "FAQPage",
+   "Product",
+   "BreadcrumbList"
+  ],
+  "has": {
+   "text": false,
+   "tldr": false,
+   "ld": false
+  },
+  "tldr": "Sadcore es un estilo de la familia Niebla y nostalgia. 70 BPM.",
+  "shot": "estilo_sadcore__chromium__1280.png",
+  "fails": []
+ },
+ {
+  "route": "/en/style/sadcore",
+  "engine": "chromium",
+  "width": 1280,
+  "status": 200,
+  "xrobots": "noindex",
+  "sw": 1280,
+  "iw": 1280,
+  "errs": [],
+  "ignored": 0,
+  "title": "What is sadcore? Slow, beautiful sadness · MUSAI Song",
+  "h1": [
+   "Sadcore"
+  ],
+  "canon": "https://musaisong.app/en/style/sadcore",
+  "robots": [],
+  "ldn": 5,
+  "ldok": true,
+  "types": [
+   "Organization",
+   "WebSite",
+   "CreativeWork",
+   "FAQPage",
+   "Product",
+   "BreadcrumbList"
+  ],
+  "has": {
+   "text": false,
+   "tldr": false,
+   "ld": false
+  },
+  "tldr": "Sadcore is a style from the Fog and Nostalgia family. 70 BPM.",
+  "shot": "en_style_sadcore__chromium__1280.png",
+  "fails": []
+ },
+ {
+  "route": "/estilo/bossa-nova",
+  "engine": "chromium",
+  "width": 1280,
+  "status": 200,
+  "xrobots": "noindex",
+  "sw": 1280,
+  "iw": 1280,
+  "errs": [],
+  "ignored": 0,
+  "title": "Qué es la bossa nova: samba y jazz en voz baja · MUSAI Song",
+  "h1": [
+   "Bossa Nova"
+  ],
+  "canon": "https://musaisong.app/estilo/bossa-nova",
+  "robots": [],
+  "ldn": 5,
+  "ldok": true,
+  "types": [
+   "Organization",
+   "WebSite",
+   "CreativeWork",
+   "FAQPage",
+   "Product",
+   "BreadcrumbList"
+  ],
+  "has": {
+   "text": false,
+   "tldr": false,
+   "ld": false
+  },
+  "tldr": "Bossa Nova es un estilo de la familia Humo y medianoche. 130 BPM.",
+  "shot": "estilo_bossa-nova__chromium__1280.png",
+  "fails": []
+ },
+ {
+  "route": "/en/style/corrido-tumbado",
+  "engine": "chromium",
+  "width": 1280,
+  "status": 200,
+  "xrobots": "noindex",
+  "sw": 1280,
+  "iw": 1280,
+  "errs": [],
+  "ignored": 0,
+  "title": "Custom Corrido Tumbado song, hear it first · MUSAI Song",
+  "h1": [
+   "Corrido Tumbado"
+  ],
+  "canon": "https://musaisong.app/en/style/corrido-tumbado",
+  "robots": [],
+  "ldn": 5,
+  "ldok": true,
+  "types": [
+   "Organization",
+   "WebSite",
+   "CreativeWork",
+   "FAQPage",
+   "Product",
+   "BreadcrumbList"
+  ],
+  "has": {
+   "text": false,
+   "tldr": false,
+   "ld": false
+  },
+  "tldr": "Corrido Tumbado is a style from the Roots That Hold Fast family. 98 BPM.",
+  "shot": "en_style_corrido-tumbado__chromium__1280.png",
+  "fails": []
+ },
+ {
+  "route": "/estilo/salsa-dura",
+  "engine": "chromium",
+  "width": 1280,
+  "status": 200,
+  "xrobots": "noindex",
+  "sw": 1280,
+  "iw": 1280,
+  "errs": [],
+  "ignored": 0,
+  "title": "Canción personalizada estilo Salsa Dura · MUSAI Song",
+  "h1": [
+   "Salsa Dura"
+  ],
+  "canon": "https://musaisong.app/estilo/salsa-dura",
+  "robots": [
+   "noindex, follow"
+  ],
+  "ldn": 5,
+  "ldok": true,
+  "types": [
+   "Organization",
+   "WebSite",
+   "CreativeWork",
+   "FAQPage",
+   "Product",
+   "BreadcrumbList"
+  ],
+  "has": {
+   "text": true,
+   "tldr": true,
+   "ld": true
+  },
+  "tldr": "Salsa Dura es un estilo de la familia Fiesta que no termina. 98 BPM, Experimentación 18, Fuerza del estilo 98.",
+  "shot": "estilo_salsa-dura__chromium__1280.png",
+  "fails": []
+ },
+ {
+  "route": "/cancion-para-dia-de-muertos",
+  "engine": "chromium",
+  "width": 1280,
+  "status": 200,
+  "xrobots": "noindex",
+  "sw": 1280,
+  "iw": 1280,
+  "errs": [],
+  "ignored": 0,
+  "title": "Canción para Día de Muertos y tu ofrenda · MUSAI Song",
+  "h1": [
+   "Una canción para tu ofrenda de Día de Muertos, con su historia"
+  ],
+  "canon": "https://musaisong.app/cancion-para-dia-de-muertos",
+  "robots": [],
+  "ldn": 5,
+  "ldok": true,
+  "types": [
+   "Organization",
+   "WebSite",
+   "BreadcrumbList",
+   "Product",
+   "FAQPage",
+   "VideoObject"
+  ],
+  "has": {
+   "text": false,
+   "tldr": false,
+   "ld": false
+  },
+  "tldr": "",
+  "shot": "cancion-para-dia-de-muertos__chromium__1280.png",
+  "fails": []
+ }
+]
