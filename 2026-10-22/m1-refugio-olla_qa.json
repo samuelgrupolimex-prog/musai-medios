@@ -1,0 +1,33 @@
+{
+ "plantilla": "musai_video v1",
+ "texto_animado": false,
+ "tarjetas": [
+  {
+   "texto": "Cada 1 de noviembre, la abuela Refugio hacía chocolate.",
+   "tam_px": 96,
+   "lineas": 4,
+   "palabras": 9
+  },
+  {
+   "texto": "Con canela. Y Pátzcuaro entero se alumbraba.",
+   "tam_px": 96,
+   "lineas": 3,
+   "palabras": 7
+  },
+  {
+   "texto": "Con esos recuerdos, su familia le hizo una canción.",
+   "tam_px": 96,
+   "lineas": 4,
+   "palabras": 9
+  }
+ ],
+ "errores": [],
+ "demo": "lámina + reproductor",
+ "duracion_s": 13.5,
+ "contraste_texto": 16.2,
+ "contraste_etiqueta": 4.9,
+ "contraste_boton": 6.5,
+ "miniatura_bytes": 6083,
+ "tam_min_px": 96,
+ "pasa": true
+}

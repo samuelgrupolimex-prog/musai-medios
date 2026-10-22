@@ -1,0 +1,119 @@
+{
+ "pieza": "C1 carrusel · Su cobija sigue en la ventana (ofrenda de tu mascota)",
+ "slides": [
+  {
+   "archivo": "c1-cobija-ofrenda-1.jpg",
+   "tam": [
+    1080,
+    1350
+   ],
+   "textos": [
+    "Su cobija sigue en la ventana.",
+    "1/6",
+    "musaisong.app"
+   ],
+   "tam_min_principal_px": 92,
+   "texto_sobre_ilustracion": false,
+   "fuera_de_margen": false,
+   "prohibidas": []
+  },
+  {
+   "archivo": "c1-cobija-ofrenda-2.jpg",
+   "tam": [
+    1080,
+    1350
+   ],
+   "textos": [
+    "Qué se pone en la ofrenda de tu mascota.",
+    "Lo que reconocería al llegar.",
+    "2/6",
+    "musaisong.app"
+   ],
+   "tam_min_principal_px": 84,
+   "texto_sobre_ilustracion": false,
+   "fuera_de_margen": false,
+   "prohibidas": []
+  },
+  {
+   "archivo": "c1-cobija-ofrenda-3.jpg",
+   "tam": [
+    1080,
+    1350
+   ],
+   "textos": [
+    "Las orillas de las quesadillas.",
+    "3/6",
+    "musaisong.app"
+   ],
+   "tam_min_principal_px": 92,
+   "texto_sobre_ilustracion": false,
+   "fuera_de_margen": false,
+   "prohibidas": []
+  },
+  {
+   "archivo": "c1-cobija-ofrenda-4.jpg",
+   "tam": [
+    1080,
+    1350
+   ],
+   "textos": [
+    "Su foto, mirando a la calle.",
+    "Como esperaba el camión de la escuela.",
+    "4/6",
+    "musaisong.app"
+   ],
+   "tam_min_principal_px": 84,
+   "texto_sobre_ilustracion": false,
+   "fuera_de_margen": false,
+   "prohibidas": []
+  },
+  {
+   "archivo": "c1-cobija-ofrenda-5.jpg",
+   "tam": [
+    1080,
+    1350
+   ],
+   "textos": [
+    "Cempasúchil y una veladora.",
+    "Para que encuentre el camino.",
+    "5/6",
+    "musaisong.app"
+   ],
+   "tam_min_principal_px": 84,
+   "texto_sobre_ilustracion": false,
+   "fuera_de_margen": false,
+   "prohibidas": []
+  },
+  {
+   "archivo": "c1-cobija-ofrenda-6.jpg",
+   "tam": [
+    1080,
+    1350
+   ],
+   "textos": [
+    "Historia de muestra · Canción hecha con IA",
+    "Su canción, con su historia.",
+    "Escúchala antes de pagar",
+    "musaisong.app",
+    "6/6"
+   ],
+   "tam_min_principal_px": 112,
+   "texto_sobre_ilustracion": false,
+   "fuera_de_margen": false,
+   "prohibidas": []
+  }
+ ],
+ "tam_min_principal_px": 84,
+ "contraste_texto": 16.2,
+ "contraste_etiqueta": 4.9,
+ "contraste_boton": 6.5,
+ "texto_sobre_ilustracion": false,
+ "prohibidas_ok": true,
+ "miniatura_bytes": 11803,
+ "miniatura_px": [
+  180,
+  225
+ ],
+ "errores": [],
+ "pasa": true
+}
