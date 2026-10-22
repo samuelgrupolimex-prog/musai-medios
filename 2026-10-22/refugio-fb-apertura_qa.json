@@ -1,0 +1,74 @@
+{
+ "plantilla": "musai_video v1 · modo narrado",
+ "texto_animado": false,
+ "escenas": [
+  {
+   "texto": "Cada 1 de noviembre, la abuela Refugio hacía chocolate.",
+   "tam_px": 78,
+   "lineas": 3,
+   "palabras": 9,
+   "t0": 0,
+   "t1": 3.0,
+   "visual": "MUS-R7E8AS-m1-abuela-olla.jpg"
+  },
+  {
+   "texto": "Con canela. Y Pátzcuaro entero se alumbraba.",
+   "tam_px": 84,
+   "lineas": 3,
+   "palabras": 7,
+   "t0": 3.0,
+   "t1": 5.5,
+   "visual": "MUS-R7E8AS-m1-abuela-olla.jpg"
+  },
+  {
+   "texto": "Con esos recuerdos, su familia le hizo una canción.",
+   "tam_px": 84,
+   "lineas": 3,
+   "palabras": 9,
+   "t0": 5.5,
+   "t1": 8.0,
+   "visual": "MUS-R7E8AS-m1-abuela-olla.jpg"
+  },
+  {
+   "texto": "Tú cuentas su historia. MUSAI Song la vuelve canción.",
+   "tam_px": 78,
+   "lineas": 3,
+   "palabras": 9,
+   "t0": 8.0,
+   "t1": 17.0,
+   "visual": "teléfono + MUS-R7E8AS-m1-abuela-olla.jpg"
+  }
+ ],
+ "errores": [],
+ "duracion_s": 20.0,
+ "resolucion": "1080x1920",
+ "etiqueta_fija": "Historia de muestra · 0–17.0 s",
+ "gancho": "Cada 1 de noviembre, la abuela Refugio hacía chocolate.",
+ "mensaje": "Tú cuentas su historia. MUSAI Song la vuelve canción.",
+ "cierre_desde_s": 17.0,
+ "canción": {
+  "archivo": "refugio.mp3",
+  "desde_s": 152.5,
+  "hasta_s": 169.5,
+  "tramo_s": 17.0,
+  "entra_en_s": 3.0,
+  "al_frente_s": [
+   3.0,
+   17.0
+  ]
+ },
+ "voz": {
+  "archivo": "narr-cancion-refugio.wav",
+  "historia_s": [
+   0,
+   3.6
+  ],
+  "cta_en_s": 17.2
+ },
+ "contraste_texto": 16.2,
+ "contraste_etiqueta": 4.9,
+ "contraste_boton": 6.5,
+ "miniatura_bytes": 14007,
+ "tam_min_px": 78,
+ "pasa": true
+}
