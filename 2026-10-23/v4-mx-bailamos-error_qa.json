@@ -1,0 +1,27 @@
+{
+  "plantilla": "narrado-v4",
+  "paquete": "MX XV · MUS-9QMRYG · checklist 18 · cola 238",
+  "pasa": true,
+  "errores": [],
+  "duracion_s": 20.0,
+  "resolucion": "1080x1920",
+  "sha256": "5b3f2c326fa5f903c3163e458a97c13dca800d75682ee4f553895f8ae99122c4",
+  "out": "/workspace/musai/salida/2026-10-23-guion-checklist18/up/v4-mx-bailamos-error.mp4",
+  "portada": "/workspace/musai/salida/2026-10-23-guion-checklist18/up/v4-mx-bailamos-error_portada.jpg",
+  "miniatura_bytes": 17807,
+  "gancho_atempo": 1.826,
+  "song_ss": 46.0,
+  "voz": "Sulafat",
+  "clips": {
+    "runway": "runway-clip7-baile-hacienda.mp4",
+    "phone": "phone-lienzo-real.mp4"
+  },
+  "preview_used": "https://musai-song-craft-b8qzet34p-edyficio.vercel.app",
+  "estructura": {
+    "0-3": "pregunta + runway + PiP app/teléfono + título + Historia de muestra",
+    "3-10": "coro + subtítulos letra 2 líneas",
+    "10-17": "phone-lienzo-real Playwright /lienzo+regalo preview + captions app",
+    "17-20": "cierre + botón dorado"
+  },
+  "jefe_gancho_3s_sin_audio": "revisar frames/v4-mx-bailamos-error t0.0/t1.5/t2.9 — debe leerse app de canciones personalizadas"
+}
