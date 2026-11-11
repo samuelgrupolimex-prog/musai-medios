@@ -1,0 +1,69 @@
+{
+  "pieza": "v1111-guiso-app",
+  "fecha": "2026-11-11",
+  "formato": "app-real-v1 (grabación Playwright de musaisong.app en iPhone 13, 0 créditos)",
+  "sello": "MUS-G843U9",
+  "cancion": "El Guiso de los Domingos",
+  "es_ejemplo": true,
+  "pasa": true,
+  "errores": [],
+  "sha256": "e62ad00642e7236e0fb4d2c2b3224a1e9d938a45c063ced70373a8ccd0834d7e",
+  "bytes": 1417609,
+  "duracion_s": 25.0,
+  "resolucion": "1080x1920",
+  "fps": "30/1",
+  "video": "h264",
+  "audio": "aac 48000",
+  "audio_fuente": "audio.mp3 publicado de MUS-G843U9, 13.6–38.6 s (verso 1: «Domingo y la radio prendida en la cocina… tus manos revolviendo el guiso, abuela»), loudnorm -14 LUFS, max -1.5 dB",
+  "app_visible_t0": {
+    "frame0_pixeles_oscuros_zona_telefono": 0.041,
+    "fuente": "https://musaisong.app/lienzo grabado 11-nov"
+  },
+  "checklist": {
+    "app_real_desde_0s": true,
+    "primeros_3s_explican_musai": "«Tú cuentas su historia. MUSAI Song la vuelve canción.» 0–3 s + /lienzo en el teléfono",
+    "flujo": "historia (/lienzo tecleando, 3–11 s) → letra (/acta/MUS-G843U9, 11–15.2 s) → canción (reproductor del acta sonando, 15.2–25 s)",
+    "historia_de_muestra_visible": "pastilla fija 0–25 s",
+    "www_musaisong_app_en_pantalla": "fijo 0–25 s",
+    "precio": "$249 MXN (tu primera canción a $99 MXN hasta el 15-nov)",
+    "texto_fijo_sin_movimiento": true,
+    "solo_texto_o_estatico": false,
+    "creditos_gastados": 0
+  },
+  "textos_en_pantalla": [
+    "HISTORIA DE MUESTRA · El Guiso de los Domingos",
+    "Tú cuentas su historia.",
+    "MUSAI Song la vuelve canción.",
+    "1 · Cuentas su historia",
+    "Escribes sus recuerdos en la app.",
+    "2 · Aparece su letra",
+    "La apruebas palabra por palabra.",
+    "3 · Escuchas su canción",
+    "Antes de pagar.",
+    "Haz la de tu persona.",
+    "Escúchala antes de pagar",
+    "www.musaisong.app",
+    "$249 MXN (tu primera canción a $99 MXN hasta el 15-nov)",
+    "Canción creada con inteligencia artificial"
+  ],
+  "prohibidas_encontradas": [],
+  "miniatura_bytes": 10408,
+  "timeline": {
+    "0-3": "gancho + lienzo",
+    "3-11": "tecleo historia en /lienzo (sin enviar, 0 generación)",
+    "11-15.2": "letra en el acta",
+    "15.2-22": "reproductor sonando",
+    "22-25": "Haz la de tu persona + botón dorado"
+  },
+  "frames_revisados": [
+    "0.1",
+    "1.0",
+    "2.5",
+    "6",
+    "10.5",
+    "12.5",
+    "14.6",
+    "18",
+    "23.5"
+  ]
+}
