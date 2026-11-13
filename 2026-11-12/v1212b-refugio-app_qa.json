@@ -1,0 +1,321 @@
+{
+  "pieza": "v1212b-refugio-app",
+  "fecha": "2026-11-13",
+  "formato": "app-real-v1 / orden 276 (grabación Playwright en PREVIEW Vercel, 0 créditos)",
+  "sello": "MUS-R7E8AS",
+  "cancion": "El Chocolate de Refugio",
+  "estilo": "Bolero Ranchero",
+  "ocasion": "muertos",
+  "es_ejemplo": true,
+  "pasa": true,
+  "errores": [],
+  "sha256": "7c51fe8da3d8bd868b945188c6f56a121d15eb638fe22f00f7c1378b14e6ca36",
+  "bytes": 1949688,
+  "duracion_s": 29.9,
+  "resolucion": "1080x1920",
+  "fps": "30/1",
+  "video": "h264",
+  "audio": "aac 48000",
+  "loudness": {
+    "integrado_LUFS": -14.3,
+    "true_peak_dBFS": -1.3,
+    "LRA": 2.7
+  },
+  "audio_fuente": "audio.mp3 publicado de MUS-R7E8AS, 65.95–95.85 s (coro desde «Y hierve el chocolate despacio, con canela» + «y Pátzcuaro entero se alumbra en tu vela» completo + verso 2 «Molemos el cacao igual que tu metate, con la taza humeando para el abuelo Chema»), fade in 0.15 s (antes del inicio vocal ~66.5 s) / fade out 0.65 s desde 95.20 s (tras «Chema»), loudnorm -14",
+  "grabacion": {
+    "host": "https://musai-song-craft-c1c8sdcla-edyficio.vercel.app (preview dpl_934uYE9sv5tPkvyVwxPjZLDbnEEG, target null, rama arreglo/oferta-perro = mismo cambio que el último deploy de producción 1bbd872)",
+    "produccion_musaisong_app": "no visitada; toda petición a *.musaisong.app abortada por route()",
+    "escrituras_bloqueadas": "todo POST/PUT/PATCH/DELETE abortado (musai_visita, rpc fn_musai_evento_front, musai-estilos), más _vercel/insights, speed-insights, vercel.live; ?interno=1 + localStorage musai_interno=1",
+    "lienzo_enviado": false
+  },
+  "app_visible_t0": {
+    "frame0_pixeles_oscuros_zona_telefono": 0.025,
+    "fuente": "/lienzo del preview grabado 12-nov (misma grabación que v1212)"
+  },
+  "checklist": {
+    "app_real_desde_0s": true,
+    "primeros_3s_explican_musai": "«Tú cuentas su historia. MUSAI Song la vuelve canción.» 0–3 s + /lienzo en el teléfono",
+    "flujo": "historia (/lienzo tecleando, 3–11 s) → letra (/regalo?sello=MUS-R7E8AS «La letra», verso 1 + coro, 11–15.2 s; el acta de este sello no muestra versos) → canción (reproductor de /acta/MUS-R7E8AS sonando con la lámina, 15.2–26.9 s)",
+    "historia_de_muestra_visible": "pastilla fija 0–25 s + rótulo del acta «Ejemplo hecho con MUSAI Song · historia de muestra» fuera de cuadro",
+    "www_musaisong_app_en_pantalla": "fijo 0–25 s",
+    "precio": "$249 MXN (tu primera canción a $99 MXN hasta el 15-nov)",
+    "precio_dentro_del_telefono": "solo «Tu primera canción: $99 MXN · pago único» en /lienzo (coincide con Sam 3-nov)",
+    "usd_en_pantalla": false,
+    "etiqueta_ia_en_pantalla": "Canción creada con inteligencia artificial (fijo)",
+    "personajes": "lámina ilustrada del acta, sin personas fotorrealistas",
+    "creditos_gastados": 0
+  },
+  "textos_en_pantalla": [
+    "HISTORIA DE MUESTRA · El Chocolate de Refugio",
+    "Tú cuentas su historia.",
+    "MUSAI Song la vuelve canción.",
+    "1 · Cuentas su historia",
+    "Escribes sus recuerdos en la app.",
+    "2 · Aparece su letra",
+    "La apruebas palabra por palabra.",
+    "3 · Escuchas su canción",
+    "Antes de pagar.",
+    "Haz la de tu persona.",
+    "Escúchala antes de pagar",
+    "www.musaisong.app",
+    "$249 MXN (tu primera canción a $99 MXN hasta el 15-nov)",
+    "Canción creada con inteligencia artificial"
+  ],
+  "prohibidas_encontradas": [],
+  "miniatura_bytes": 13523,
+  "miniatura_px": [
+    180,
+    320
+  ],
+  "timeline": {
+    "0-3": "gancho + lienzo",
+    "3-11": "tecleo historia de muestra en /lienzo (sin enviar)",
+    "11-15.2": "letra en /regalo",
+    "15.2-26.9": "reproductor del acta sonando (último cuadro de la grabación se sostiene desde ~26.0 s)",
+    "26.9-29.9": "Haz la de tu persona + botón dorado"
+  },
+  "frames_revisados": [
+    "0.0",
+    "0.5",
+    "2.5",
+    "6.0",
+    "8.0",
+    "10.5",
+    "12.5",
+    "14.6",
+    "18.0",
+    "22.0",
+    "26.0",
+    "27.5",
+    "29.8"
+  ],
+  "reemplaza": "v1212-refugio-app (audio rechazado por Jefe 13-nov: empezaba a media palabra, cortaba antes de «en tu vela», contenía «no se les llora, se les cocina»)",
+  "audio_segmento": {
+    "inicio_cancion_s": 65.95,
+    "fin_cancion_s": 95.85,
+    "duracion_s": 29.9,
+    "fade_in_s": 0.15,
+    "fade_out_inicio_clip_s": 29.25,
+    "fade_out_s": 0.65,
+    "nivel_cancion_65.9s_dB": -35.7,
+    "inicio_vocal_aprox_cancion_s": 66.5,
+    "fin_ultima_palabra_aprox_cancion_s": 95.2,
+    "siguiente_frase_cancion_s": 96.46,
+    "nivel_ultimos_100ms_dB": -43.1
+  },
+  "transcripcion_clip": {
+    "motor": "faster-whisper medium int8 CPU, word_timestamps",
+    "texto": "Llerve el chocolate, espacio con canela, y Pázcuaro entero se alumbra en tu vela. Molemos el cacao igual que tu metate, con la taza humeando para el abuelo chema.",
+    "segmentos": [
+      {
+        "start": 0.0,
+        "end": 16.0,
+        "text": " Llerve el chocolate, espacio con canela, y Pázcuaro entero se alumbra en tu vela.",
+        "words": [
+          [
+            0.0,
+            1.66,
+            " Llerve"
+          ],
+          [
+            1.66,
+            1.94,
+            " el"
+          ],
+          [
+            1.94,
+            3.06,
+            " chocolate,"
+          ],
+          [
+            3.82,
+            4.38,
+            " espacio"
+          ],
+          [
+            4.38,
+            5.08,
+            " con"
+          ],
+          [
+            5.08,
+            6.42,
+            " canela,"
+          ],
+          [
+            7.06,
+            7.34,
+            " y"
+          ],
+          [
+            7.34,
+            8.14,
+            " Pázcuaro"
+          ],
+          [
+            8.14,
+            9.96,
+            " entero"
+          ],
+          [
+            9.96,
+            11.06,
+            " se"
+          ],
+          [
+            11.06,
+            11.94,
+            " alumbra"
+          ],
+          [
+            11.94,
+            12.38,
+            " en"
+          ],
+          [
+            12.38,
+            12.62,
+            " tu"
+          ],
+          [
+            12.62,
+            16.0,
+            " vela."
+          ]
+        ]
+      },
+      {
+        "start": 18.7,
+        "end": 29.0,
+        "text": " Molemos el cacao igual que tu metate, con la taza humeando para el abuelo chema.",
+        "words": [
+          [
+            18.7,
+            19.28,
+            " Molemos"
+          ],
+          [
+            19.28,
+            19.68,
+            " el"
+          ],
+          [
+            19.68,
+            20.24,
+            " cacao"
+          ],
+          [
+            20.24,
+            21.0,
+            " igual"
+          ],
+          [
+            21.0,
+            21.82,
+            " que"
+          ],
+          [
+            21.82,
+            22.06,
+            " tu"
+          ],
+          [
+            22.06,
+            23.8,
+            " metate,"
+          ],
+          [
+            24.76,
+            25.06,
+            " con"
+          ],
+          [
+            25.06,
+            25.32,
+            " la"
+          ],
+          [
+            25.32,
+            25.62,
+            " taza"
+          ],
+          [
+            25.62,
+            27.3,
+            " humeando"
+          ],
+          [
+            27.3,
+            27.84,
+            " para"
+          ],
+          [
+            27.84,
+            28.06,
+            " el"
+          ],
+          [
+            28.06,
+            28.62,
+            " abuelo"
+          ],
+          [
+            28.62,
+            29.24,
+            " chema."
+          ]
+        ]
+      }
+    ],
+    "primeros_3s": "Y herve el chocolate",
+    "ultimos_3s": "para el abuelo Chema",
+    "primera_palabra": [
+      0.0,
+      1.28,
+      " Y"
+    ],
+    "ultima_palabra_en_ultimos_3s": [
+      1.7,
+      2.4,
+      " Chema"
+    ],
+    "nota": "whisper oye «herve/Llerve» y «espacio»; la letra oficial es «Hierve el chocolate despacio, con canela». Al inicio se canta una «Y» de anacrusa."
+  },
+  "checks": {
+    "duracion_20_30s": true,
+    "resolucion_1080x1920": true,
+    "fps_30": true,
+    "h264": true,
+    "aac_48k": true,
+    "loudness_aprox_-14": true,
+    "true_peak_<=-1": true,
+    "sin_no_se_les_llora_se_les_cocina": true,
+    "sin_se_les_cocina": true,
+    "empieza_en_frase_completa": true,
+    "termina_en_frase_completa": true,
+    "ultima_palabra_antes_del_fade": true,
+    "sin_frase_siguiente_cortada": true,
+    "fade_out_final_<-35dB": true,
+    "visual_igual_al_v1212": true,
+    "app_real_desde_0s": true,
+    "sin_palabras_ni_precios_prohibidos": true,
+    "tiktok_sin_url": true,
+    "links_solo_cancion_personalizada_utm_social": true,
+    "miniatura_180x320": true,
+    "miniatura_data_uri": true,
+    "portada_1080x1920": true
+  },
+  "frames_diff_vs_v1212": {
+    "0.0": 0.0,
+    "0.5": 0.0,
+    "2.5": 0.0,
+    "6.0": 0.0,
+    "8.0": 0.0,
+    "10.5": 0.0,
+    "12.5": 0.0,
+    "14.6": 0.0,
+    "18.0": 0.0,
+    "CTA 24.9(viejo) vs 29.8(nuevo)": 0.003
+  },
+  "nota_letra_en_pantalla": "La sección /regalo (11–15.2 s) muestra la letra real: verso 1 + coro completo (incluye la línea escrita «que a los muertos no se les llora, se les cocina.», visible ~12.5–15.2 s) + verso 2. No está en el audio. El audio corresponde a las líneas 3–4 del coro y 1–2 del verso 2, que sí aparecen en pantalla."
+}
