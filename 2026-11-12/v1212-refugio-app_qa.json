@@ -1,0 +1,90 @@
+{
+  "pieza": "v1212-refugio-app",
+  "fecha": "2026-11-12",
+  "formato": "app-real-v1 / orden 276 (grabación Playwright en PREVIEW Vercel, 0 créditos)",
+  "sello": "MUS-R7E8AS",
+  "cancion": "El Chocolate de Refugio",
+  "estilo": "Bolero Ranchero",
+  "ocasion": "muertos",
+  "es_ejemplo": true,
+  "pasa": true,
+  "errores": [],
+  "sha256": "e3a62df69e4c578eec26a363821be1720577500e1c8468937cc6861d7f72c836",
+  "bytes": 1661304,
+  "duracion_s": 25.0,
+  "resolucion": "1080x1920",
+  "fps": "30/1",
+  "video": "h264",
+  "audio": "aac 48000",
+  "loudness": {
+    "integrado_LUFS": -13.9,
+    "true_peak_dBFS": -1.4,
+    "LRA": 4.0
+  },
+  "audio_fuente": "audio.mp3 publicado de MUS-R7E8AS, 52.8–77.8 s (coro: «Abuela, aprendimos que así se cocina… hierve el chocolate despacio, con canela… y Pátzcuaro entero se alumbra en tu vela»), fade in 0.3 s / out 1.7 s, loudnorm -14",
+  "grabacion": {
+    "host": "https://musai-song-craft-c1c8sdcla-edyficio.vercel.app (preview dpl_934uYE9sv5tPkvyVwxPjZLDbnEEG, target null, rama arreglo/oferta-perro = mismo cambio que el último deploy de producción 1bbd872)",
+    "produccion_musaisong_app": "no visitada; toda petición a *.musaisong.app abortada por route()",
+    "escrituras_bloqueadas": "todo POST/PUT/PATCH/DELETE abortado (musai_visita, rpc fn_musai_evento_front, musai-estilos), más _vercel/insights, speed-insights, vercel.live; ?interno=1 + localStorage musai_interno=1",
+    "lienzo_enviado": false
+  },
+  "app_visible_t0": {
+    "frame0_pixeles_oscuros_zona_telefono": 0.024,
+    "fuente": "/lienzo del preview grabado 12-nov"
+  },
+  "checklist": {
+    "app_real_desde_0s": true,
+    "primeros_3s_explican_musai": "«Tú cuentas su historia. MUSAI Song la vuelve canción.» 0–3 s + /lienzo en el teléfono",
+    "flujo": "historia (/lienzo tecleando, 3–11 s) → letra (/regalo?sello=MUS-R7E8AS «La letra», verso 1 + coro, 11–15.2 s; el acta de este sello no muestra versos) → canción (reproductor de /acta/MUS-R7E8AS sonando con la lámina, 15.2–25 s)",
+    "historia_de_muestra_visible": "pastilla fija 0–25 s + rótulo del acta «Ejemplo hecho con MUSAI Song · historia de muestra» fuera de cuadro",
+    "www_musaisong_app_en_pantalla": "fijo 0–25 s",
+    "precio": "$249 MXN (tu primera canción a $99 MXN hasta el 15-nov)",
+    "precio_dentro_del_telefono": "solo «Tu primera canción: $99 MXN · pago único» en /lienzo (coincide con Sam 3-nov)",
+    "usd_en_pantalla": false,
+    "etiqueta_ia_en_pantalla": "Canción creada con inteligencia artificial (fijo)",
+    "personajes": "lámina ilustrada del acta, sin personas fotorrealistas",
+    "creditos_gastados": 0
+  },
+  "textos_en_pantalla": [
+    "HISTORIA DE MUESTRA · El Chocolate de Refugio",
+    "Tú cuentas su historia.",
+    "MUSAI Song la vuelve canción.",
+    "1 · Cuentas su historia",
+    "Escribes sus recuerdos en la app.",
+    "2 · Aparece su letra",
+    "La apruebas palabra por palabra.",
+    "3 · Escuchas su canción",
+    "Antes de pagar.",
+    "Haz la de tu persona.",
+    "Escúchala antes de pagar",
+    "www.musaisong.app",
+    "$249 MXN (tu primera canción a $99 MXN hasta el 15-nov)",
+    "Canción creada con inteligencia artificial"
+  ],
+  "prohibidas_encontradas": [],
+  "miniatura_bytes": 12729,
+  "miniatura_px": [
+    180,
+    320
+  ],
+  "timeline": {
+    "0-3": "gancho + lienzo",
+    "3-11": "tecleo historia de muestra en /lienzo (sin enviar)",
+    "11-15.2": "letra en /regalo",
+    "15.2-22": "reproductor del acta sonando",
+    "22-25": "Haz la de tu persona + botón dorado"
+  },
+  "frames_revisados": [
+    "0.0",
+    "0.5",
+    "2.5",
+    "6.0",
+    "8.0",
+    "10.5",
+    "12.5",
+    "14.6",
+    "18.0",
+    "23.5",
+    "24.9"
+  ]
+}
